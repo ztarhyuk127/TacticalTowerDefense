@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "437447398311",
+    "firebase_url": "https://s9b302-default-rtdb.firebaseio.com",
+    "project_id": "s9b302",
+    "storage_bucket": "s9b302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437447398311:android:61ea11d9839bf1a6afdc82",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.S9_B302"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcTfob-9ouaWcmjRuUCaNoM-FR2-7lTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437447398311:android:be68191cd62b771eafdc82",
+        "android_client_info": {
+          "package_name": "com.MG.TacticalTowerDefense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwcTfob-9ouaWcmjRuUCaNoM-FR2-7lTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - WayPoint
+  - BuildPoint
+  - Monster
+  - CharSellBtn
+  - Deck
+  - CanBuild
+  - Trash
+  - Inventory
+  - Tower
+  - Poison
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fireEffect
+    uniqueID: 3093517323
+    locked: 0
+  - name: MonsterLayer
+    uniqueID: 1110538999
+    locked: 0
+  - name: TowerLayer
+    uniqueID: 2164474597
+    locked: 0
